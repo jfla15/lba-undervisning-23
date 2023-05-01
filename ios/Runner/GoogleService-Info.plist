@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>215486552580-lqctdbcamcqlm2v957jg7eciln3h07tr.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.215486552580-lqctdbcamcqlm2v957jg7eciln3h07tr</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBSs3N5MYDMWpV9SSieGQb0h17UZpnjh00</string>
+	<key>GCM_SENDER_ID</key>
+	<string>215486552580</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>dk.lebeautyacademy.undervisning</string>
+	<key>PROJECT_ID</key>
+	<string>lba-undervisning-23</string>
+	<key>STORAGE_BUCKET</key>
+	<string>lba-undervisning-23.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:215486552580:ios:c854beff062bea06c7f351</string>
+</dict>
+</plist>

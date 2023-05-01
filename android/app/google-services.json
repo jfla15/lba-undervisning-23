@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "215486552580",
+    "project_id": "lba-undervisning-23",
+    "storage_bucket": "lba-undervisning-23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215486552580:android:19dc2e75df0beaf9c7f351",
+        "android_client_info": {
+          "package_name": "dk.lebeautyacademy.undervisning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "215486552580-3nd9elg9p4g72eqp3f6eogr2bbn1cdea.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAc3je0MsV5F5EWgvWW51XZxyYyktiDXuQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "215486552580-3nd9elg9p4g72eqp3f6eogr2bbn1cdea.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "215486552580-lqctdbcamcqlm2v957jg7eciln3h07tr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "dk.lebeautyacademy.undervisning"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
